@@ -1,5 +1,5 @@
 # RemoDB-mod
-RemoDB SQL Client MySQL, MsSQL - RemoDB offers a free SQL client MySQL, Microsoft SQL, PostgreSQL and SAP Sybase AES database servers with a wide range of tools and quick shortcuts.
+RemoDB SQL Client MySQL, MsSQL - RemoDB offers a free SQL client MySQL, Microsoft SQL, PostgreSQL and SAP Sybase AES database servers with a wide range of tools and quick shortcuts. NO ADS!
 
 **Go to [Rleleases](https://github.com/MarshMeadow/RemoDB-mod/releases) for the latest**
 
