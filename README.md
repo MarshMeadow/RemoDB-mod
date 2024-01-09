@@ -3,6 +3,8 @@ RemoDB SQL Client MySQL, MsSQL - RemoDB offers a free SQL client MySQL, Microsof
 
 **Go to [Rleleases](https://github.com/MarshMeadow/RemoDB-mod/releases) for the latest**
 
+**THIS APP MAY HAVE ISSUES, PLEASE STAY TUNED**
+
 My patches/mods:
 
 - No ads
