@@ -20,6 +20,8 @@ Requires Android
 
 GOOGLE PLAY:
 
+[Link](https://play.google.com/store/apps/details?id=com.kriskast.remotedb)
+
 About this app:
 
 RemoDB offers a free SQL client MySQL, Microsoft SQL, PostgreSQL and SAP Sybase AES database servers with a wide range of tools and quick shortcuts.
@@ -44,6 +46,10 @@ Send us an email at rdbm.service@gmail.com
 A database server and an internet connection are needed to use this app.
 
 CAUTION: All queries are executed on your remote server, be careful as changes are final and immediate.
+
+Google Play Link: [HERE](https://play.google.com/store/apps/details?id=com.kriskast.remotedb)
+
+Other mods: N/A (Nothing here, make a google search)
 
 Note That:
 ----
